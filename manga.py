@@ -1429,7 +1429,7 @@ if __name__ == "__main__":
 
     BILI_USER = ""
     BILI_PASS = ""
-    BILI_COOKIE = "buvid3=E184A75D-9D1D-4EFA-AFF8-CC153733F406143097infoc; blackside_state=1; rpdid=|(k|mmJlYYuJ0J'uY|RYRJRYk; LIVE_BUVID=AUTO1616051701845447; _uuid=BAB1F15F-FF91-0A7B-B53D-13F1978B0A1A57330infoc; video_page_version=v_old_home; SESSDATA=c497b25e%2C1653472506%2C4d7a6%2Ab1; bili_jct=11ed4d936e0bed091c4602e564d8ed4f; DedeUserID=179081341; DedeUserID__ckMd5=81a7aabdf4d01e0b; sid=7c72p1q6; fingerprint_s=3d5d5ed656c589224f81a5002de4c79d; i-wanna-go-back=-1; b_ut=5; buvid_fp=3c47bcb4307e30b9ac0459c23247d5cf; buvid4=D8737132-918F-49EB-B363-4C99B63D6F2827007-022012116-6b6D/3Z22/jI20/P280BEHUjR7G2BjpOzl3irk6wqPkbkglEPMWiwQ%3D%3D; CURRENT_BLACKGAP=0; nostalgia_conf=-1; CURRENT_QUALITY=0; fingerprint=422f3d32559316a377bbe3fa9d3a5717; fingerprint3=df266f0b28928ddaee9702e0a1e8af1d; bp_video_offset_179081341=646331164398714900; PVID=1; CURRENT_FNVAL=4048; innersign=0; b_lsid=5122827E_18008580E78"
+    BILI_COOKIE = ""
     # 未填写参数取消运行
     if BILI_USER == "" or BILI_PASS == "":
         if BILI_COOKIE == "":
