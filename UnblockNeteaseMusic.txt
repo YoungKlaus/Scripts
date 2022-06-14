@@ -2,6 +2,6 @@
 #https://github.com/O7Y0/Profiles/blob/master/O7Y0-Quantumult%20X.conf
 proxies:
   - {name: 🎧 网易音乐 k1, server: 39.105.129.2, port: 8080, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 网易音乐 k2, server: 39.105.129.2, port: 8081, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 k2, server: 39.105.129.2, port: 1234, type: http, tls: false, skip-cert-verify: false}
 
 
