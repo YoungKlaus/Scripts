@@ -1,0 +1,7 @@
+#推荐用配置整套用，省去自己折腾时间，配置简洁干净上手难度为0
+#https://github.com/O7Y0/Profiles/blob/master/O7Y0-Quantumult%20X.conf
+proxies:
+  - {name: 🎧 网易音乐 k1, server: 39.105.129.2, port: 8080, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 k2, server: 39.105.129.2, port: 8081, type: http, tls: false, skip-cert-verify: false}
+
+
