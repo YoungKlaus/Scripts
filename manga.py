@@ -1421,8 +1421,10 @@ class BiliBiliCheckIn(object):
         if is_login:
             manhua_msg = self.manga_sign(session=session)
             print(manhua_msg)
-            trade_msg = self.manga_trade(session=session)
-            print(trade_msg)
+            for trials in range(200):
+                trade_msg = self.manga_trade(session=session)
+                print(trade_msg)
+                time.sleep(0.3)
 
 
 if __name__ == "__main__":
